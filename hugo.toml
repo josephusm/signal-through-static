@@ -10,11 +10,7 @@ theme = 'terminal'
   fullWidthTheme = false
   centerTheme = true
   autoCover = true
-  readMore = false
   enableGlobalLanguageMenu = false
-
-  [params.twitter]
-    share = false
 
 [languages]
   [languages.en]
