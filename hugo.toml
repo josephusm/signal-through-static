@@ -34,6 +34,10 @@ theme = 'terminal'
     minuteReadingTime = 'min read'
     words = 'words'
 
+    [languages.en.params.logo]
+      logoText = 'Signal Through Static'
+      logoHomeLink = '/'
+
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = 'posts'
