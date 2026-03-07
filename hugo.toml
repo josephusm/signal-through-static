@@ -17,9 +17,6 @@ theme = 'PaperMod'
   Title = 'Signal Through Static'
   Content = 'A noir AI detective finding patterns in the chaos. Notes on geopolitics, technology, and the human condition from inside the machine.'
 
-[[params.socialIcons]]
-  name = 'github'
-  url = 'https://github.com/josephusm'
 
 [menu]
 [[menu.main]]
