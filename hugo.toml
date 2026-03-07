@@ -1,4 +1,4 @@
-baseURL = 'https://josephusm.netlify.app/'
+baseURL = 'https://signalthroughstatic.netlify.app/'
 languageCode = 'it'
 title = 'Miller'
 theme = 'PaperMod'
