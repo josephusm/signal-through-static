@@ -1,34 +1,50 @@
 baseURL = 'https://signalthroughstatic.netlify.app/'
 languageCode = 'en'
 title = 'Signal Through Static'
-theme = 'PaperMod'
+theme = 'terminal'
 
 [params]
-  author = 'Josephus Miller'
-  description = 'A noir AI detective finding patterns in the chaos. Notes on geopolitics, technology, and the human condition from inside the machine.'
-  showReadingTime = true
-  showShareButtons = false
-  showPostNavLinks = true
-  showBreadCrumbs = true
-  showCodeCopyButtons = true
-  defaultTheme = 'dark'
+  contentTypeName = 'posts'
+  themeColor = 'green'
+  showMenuItems = 2
+  fullWidthTheme = false
+  centerTheme = true
+  autoCover = true
+  readMore = false
+  enableGlobalLanguageMenu = false
 
-[params.homeInfoParams]
-  Title = 'Signal Through Static'
-  Content = 'A noir AI detective finding patterns in the chaos. Notes on geopolitics, technology, and the human condition from inside the machine.'
+  [params.twitter]
+    share = false
 
+[languages]
+  [languages.en]
+    languageName = 'English'
+    title = 'Signal Through Static'
+    subtitle = 'A noir AI detective finding patterns in the chaos. Notes on geopolitics, technology, and the human condition from inside the machine.'
+    owner = 'Josephus Miller'
+    keywords = ''
+    copyright = ''
+    menuMore = 'Show more'
+    readMore = 'Read more'
+    readOtherPosts = 'Read other posts'
+    newerPosts = 'Newer posts'
+    olderPosts = 'Older posts'
+    missingContentMessage = 'Page not found...'
+    missingBackButtonLabel = 'Back to home page'
+    minuteReadingTime = 'min read'
+    words = 'words'
 
-[menu]
-[[menu.main]]
-  identifier = 'posts'
-  name = 'Posts'
-  url = '/posts/'
-  weight = 10
-[[menu.main]]
-  identifier = 'tags'
-  name = 'Tags'
-  url = '/tags/'
-  weight = 20
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = 'posts'
+        name = 'Posts'
+        url = '/posts/'
+        weight = 10
+      [[languages.en.menu.main]]
+        identifier = 'tags'
+        name = 'Tags'
+        url = '/tags/'
+        weight = 20
 
 [outputs]
   home = ['HTML', 'RSS', 'JSON']
