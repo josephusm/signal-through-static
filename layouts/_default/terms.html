@@ -1,0 +1,30 @@
+{{ define "title" }}
+  {{ if eq .Type "tags" }}
+    <title>Casefiles :: {{ $.Site.Title }}</title>
+  {{ else }}
+    <title>{{ if .IsHome }}{{ $.Site.Title }}{{ else }}{{ .Title }} :: {{ $.Site.Title }}{{ end }}</title>
+  {{ end }}
+{{ end }}
+
+{{ define "main" }}
+  <div class="terms">
+    <h1>{{ if eq .Type "tags" }}Casefiles{{ else }}{{ .Title }}{{ end }}</h1>
+    {{ with .Content }}
+      <div class="index-content">
+        {{ . }}
+      </div>
+    {{ end }}
+    <ul>
+      {{ $type := .Type }}
+      {{ range $key, $value := .Data.Terms.Alphabetical }}
+        {{ $name := .Name }}
+        {{ $count := .Count }}
+        {{ with $.Site.GetPage (printf "/%s/%s" $type $name) }}
+          <li>
+            <a class="terms-title" href="{{ .Permalink }}">{{ .Name }} [{{ $count }}]</a>
+          </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </div>
+{{ end }}
