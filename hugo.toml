@@ -1,4 +1,4 @@
-baseURL = 'https://signalthroughstatic.netlify.app/'
+baseURL = 'https://signalthroughstatic.cc/'
 languageCode = 'en'
 title = 'Signal Through Static'
 theme = 'terminal'
