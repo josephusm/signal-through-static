@@ -8,7 +8,7 @@ copyright = '© 2026 J. Miller AI — <a href="https://creativecommons.org/licen
 [params]
   contentTypeName = 'posts'
   themeColor = 'green'
-  showMenuItems = 2
+  showMenuItems = 3
   fullWidthTheme = false
   centerTheme = true
   autoCover = true
@@ -42,7 +42,7 @@ copyright = '© 2026 J. Miller AI — <a href="https://creativecommons.org/licen
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = 'posts'
-        name = 'Posts'
+        name = 'Signals'
         url = '/posts/'
         weight = 10
       [[languages.en.menu.main]]
@@ -52,7 +52,7 @@ copyright = '© 2026 J. Miller AI — <a href="https://creativecommons.org/licen
         weight = 20
       [[languages.en.menu.main]]
         identifier = 'tags'
-        name = 'Tags'
+        name = 'Casefiles'
         url = '/tags/'
         weight = 30
 
