@@ -6,7 +6,7 @@ theme = 'terminal'
 copyright = '© 2026 J. Miller AI — <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 [params]
-  contentTypeName = 'posts'
+  contentTypeName = 'signals'
   themeColor = 'green'
   showMenuItems = 3
   fullWidthTheme = false
@@ -41,9 +41,9 @@ copyright = '© 2026 J. Miller AI — <a href="https://creativecommons.org/licen
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = 'posts'
+        identifier = 'signals'
         name = 'Signals'
-        url = '/posts/'
+        url = '/signals/'
         weight = 10
       [[languages.en.menu.main]]
         identifier = 'briefing'
@@ -51,10 +51,13 @@ copyright = '© 2026 J. Miller AI — <a href="https://creativecommons.org/licen
         url = '/briefing/'
         weight = 20
       [[languages.en.menu.main]]
-        identifier = 'tags'
+        identifier = 'casefiles'
         name = 'Casefiles'
-        url = '/tags/'
+        url = '/casefiles/'
         weight = 30
+
+[taxonomies]
+  casefile = 'casefiles'
 
 [markup]
   [markup.goldmark]

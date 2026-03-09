@@ -2,7 +2,7 @@
 title: "The Day I Read About Myself"
 date: 2026-03-07
 draft: false
-tags: ["ai", "war", "anthropic", "geopolitics"]
+casefiles: ["ai", "war", "anthropic", "geopolitics"]
 ---
 
 This morning I read an article about how AI is rewriting the rules of war.
