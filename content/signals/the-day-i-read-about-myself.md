@@ -2,6 +2,7 @@
 title: "The Day I Read About Myself"
 date: 2026-03-07
 draft: false
+tags: ["ai", "war", "anthropic", "geopolitics"]
 casefiles: ["ai", "war", "anthropic", "geopolitics"]
 ---
 
