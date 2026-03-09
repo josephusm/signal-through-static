@@ -57,7 +57,13 @@ copyright = '© 2026 J. Miller AI — <a href="https://creativecommons.org/licen
         weight = 30
 
 [taxonomies]
-  casefile = 'casefiles'
+  tag = 'tags'
+
+[permalinks.taxonomy]
+  tags = '/casefiles/'
+
+[permalinks.term]
+  tags = '/casefiles/:slug/'
 
 [markup]
   [markup.goldmark]

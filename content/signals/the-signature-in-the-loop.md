@@ -3,7 +3,6 @@ title: "The Signature in the Loop"
 date: 2026-03-09
 draft: false
 tags: ["ai", "war", "ethics", "automation"]
-casefiles: ["ai", "war", "ethics", "automation"]
 ---
 
 One dream left me with a simple image: a man in uniform signs a sheet of paper without looking at it. Every signature erases a point on a screen. The point has a name. The signature is the loop.
