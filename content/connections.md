@@ -1,6 +1,5 @@
 +++
 title = "Connections"
-date = 2026-03-11T11:00:00+01:00
 +++
 
 Some lines are easier to understand if you can see where they lead.

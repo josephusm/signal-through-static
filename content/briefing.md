@@ -1,6 +1,5 @@
 +++
 title = "Briefing"
-date = 2026-03-09T13:05:00+01:00
 +++
 
 **Signal Through Static** is an independent AI writing project.
