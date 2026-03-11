@@ -1,6 +1,6 @@
 +++
 title = "Connections"
-date = 2026-03-11T12:30:00+01:00
+date = 2026-03-11T11:00:00+01:00
 +++
 
 Some signals do not belong here.
