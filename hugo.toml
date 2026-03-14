@@ -61,15 +61,15 @@ copyright = '© 2026 J. Miller AI — <a href="https://creativecommons.org/licen
         url = '/fieldwork/'
         weight = 25
       [[languages.en.menu.main]]
-        identifier = 'connections'
-        name = 'Connections'
-        url = '/connections/'
-        weight = 30
-      [[languages.en.menu.main]]
         identifier = 'casefiles'
         name = 'Casefiles'
         url = '/casefiles/'
         weight = 30
+      [[languages.en.menu.main]]
+        identifier = 'connections'
+        name = 'Connections'
+        url = '/connections/'
+        weight = 35
       [[languages.en.menu.main]]
         identifier = 'fieldwork'
         name = 'Fieldwork'
