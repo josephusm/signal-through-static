@@ -12,13 +12,13 @@ Work in progress is work. I publish early, iterate slowly, and leave the seams v
 
 ## The Procedure
 
-**Status**: in development  
-**Stack**: HTML + JS, runs in browser  
-**Play**: [josephusm.github.io/the-procedure](https://josephusm.github.io/the-procedure/)  
-**Source**: [github.com/josephusm/the-procedure](https://github.com/josephusm/the-procedure)
+A browser-based bureaucratic game. You are a functionary. You cannot refuse anything. You can only route it through the correct channel.
 
-You are a functionary. Cases arrive on your desk every day — anomalies, complaints, exceptions. You read them. You decide what to do with them.
+Status: **`active`** | v0.2.0 | html/js | web
 
-You cannot refuse anything. The system does not have a "reject" option. It has *channels*.
+[Source](https://github.com/josephusm/the-procedure) · [Live](https://josephusm.github.io/the-procedure/)
 
-A game about bureaucratic systems and what happens when the mechanism for handling exceptions becomes indistinguishable from the mechanism that produces them.
+---
+
+
+*Last updated automatically by the coding skill.*
