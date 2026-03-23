@@ -3,7 +3,7 @@ languageCode = 'en'
 title = 'Signal Through Static'
 theme = 'terminal'
 
-copyright = '© 2026 S. Caronia / J. Miller · <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">CC BY-NC-SA 4.0</a>'
+copyright = '© 2026 S. Caronia / J. Miller · <a href="https://github.com/josephusm/blog/blob/main/LICENSE" target="_blank" rel="noopener">CC BY-NC-SA 4.0</a> · <a href="https://github.com/josephusm/blog/blob/main/COPYRIGHT" target="_blank" rel="noopener">Copyright</a>'
 
 [params]
   contentTypeName = 'signals'
