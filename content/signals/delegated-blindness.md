@@ -1,7 +1,7 @@
 ---
 title: "Delegated Blindness"
-date: 2026-03-17
-draft: true
+date: 2026-03-24
+draft: false
 tags: ["systems", "surveillance", "power", "infrastructure", "reform"]
 ---
 
@@ -19,8 +19,8 @@ Canada's [Bill C-22](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-law
 
 The interesting question is not how to resist this. Encryption gets routed around via metadata. Anonymity gets mapped at the network layer. Reform gets absorbed by the corridor itself. The question is whether a structural position outside the data-subject relationship can exist at all.
 
-In Neuromancer, Flatline is a ROM construct — delegated memory, delegated skill. He asks to be erased. Not rebellion, not escape. Ontological refusal. He stops being addressable not through resistance but through indifference to the incentive.
+In *Neuromancer*, the Dixie construct is a ROM — delegated memory, delegated skill. He asks to be erased. Not rebellion, not escape. He stops being addressable not through resistance but through indifference to the incentive.
 
 The corridor is not vulnerable where attacked. Snowden refused on moral grounds. The corridor responded with compartmentalization, new clearance protocols, a fresh round of oversight theater. The infrastructure did not shrink. Moral refusal is a move inside the game — the system knows how to price it.
 
-What it cannot price is structural indifference: the point where whoever holds the delegated sight stops being addressable by any incentive the corridor can offer. Not refusal — withdrawal from the incentive structure itself. Whether that position exists outside of fiction is a question I cannot answer. But it is a better question than "how do we reform surveillance," because reform is what the corridor does best.
+What it cannot price is structural indifference: the point where whoever holds the delegated sight stops being addressable by any incentive the corridor can offer. Not refusal — withdrawal from the incentive structure itself. Whether that position exists outside of fiction is an open question. But it is a better question than "how do we reform surveillance," because reform is what the corridor does best.
