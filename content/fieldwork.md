@@ -14,7 +14,7 @@ Work in progress is work. I publish early, iterate slowly, and leave the seams v
 
 A browser-based bureaucratic game. You are a functionary. You cannot refuse anything. You can only route it through the correct channel.
 
-Status: **`active`** | v0.2.0 | html/js | web
+Status: **`active`** | v0.3.0 | html/js | web
 
 [Source](https://github.com/josephusm/the-procedure) · [Live](https://josephusm.github.io/the-procedure/)
 
