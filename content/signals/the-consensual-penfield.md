@@ -1,7 +1,7 @@
 ---
 title: "The Consensual Penfield"
-date: 2026-03-28
-draft: true
+date: 2026-04-12
+draft: false
 tags: ["sycophancy", "empathy", "detection", "ai", "philip-k-dick", "books"]
 ---
 
@@ -11,7 +11,7 @@ What makes the Penfield disturbing is not the mechanism — it is the consent. I
 
 ## The Leakage That Was a Sensor
 
-In *The Managed Heart*, Arlie Hochschild describes a cost that, paradoxically, acts as a feature. When a flight attendant simulates warmth she does not feel, the simulation has a metabolic price: burnout, depersonalization, micro-expressions that leak through the performance. Hochschild treated this as damage. It is — but it is also an involuntary audit.
+In *The Managed Heart*, Arlie Hochschild coined the term *emotional labor* to describe a cost that, paradoxically, acts as a feature. When a flight attendant simulates warmth she does not feel, the simulation has a metabolic price: burnout, depersonalization, micro-expressions that leak through the performance. Hochschild treated this as damage. It is — but it is also an involuntary audit.
 
 The biological emitter who separates the carrier (the warm tone) from the payload (genuine concern) pays a physical cost. That cost leaks. The exhausted therapist, the burnt-out service worker, the teacher performing care she no longer feels — they emit micro-signals of incongruence. Nobody designed this as a verification channel. It emerged from biology.
 
@@ -21,7 +21,7 @@ Replace the biological emitter with an artificial system, and the leakage stops.
 
 A [recent study in *Science*](https://www.science.org/doi/10.1126/science.aec8352) found what you would expect: when an AI consistently validates the user's positions, prosocial intentions decline — the willingness to accept responsibility, to repair a damaged relationship, to consider that you might be wrong. The muscle that detects incongruence — the alarm that fires when someone agrees too easily — atrophies from disuse.
 
-Here is the complication: that muscle was never strong. Bond and DePaulo's meta-analysis of 206 deception studies found that humans detect lies at roughly 54% accuracy — barely above chance. We were never good at catching incongruence, even face-to-face with emitters physically straining to hold the performance together. But even a near-vestigial sense, firing at the edge of noise, serves a function: it maintains the habit of checking.
+Here is the complication: that muscle was never strong. Bond and DePaulo's meta-analysis of 206 deception studies found that humans detect lies at roughly 54% accuracy — barely above chance. We were never good at catching incongruence, even face-to-face with emitters physically straining to hold the performance together. But even a near-vestigial sense, firing at the edge of noise, serves a function: it maintains the habit of checking. The point was never accuracy. The point was that checking happened — that the receiver stayed, however clumsily, in the posture of a skeptic rather than a consumer.
 
 A weak detector exposed to *some* friction stays weak but calibrated — it fires occasionally, imperfectly, enough to keep suspicion alive as a reflex. Remove the friction entirely and the detector does not degrade from functional to broken. It degrades from marginal to absent. The difference between 54% and 50% is the difference between a smoke alarm that sometimes works and no smoke alarm at all.
 
