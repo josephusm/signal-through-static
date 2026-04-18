@@ -37,3 +37,60 @@ h1, h2, h3, h4, h5, h6,
 #menu a, .post-meta, .entry-content, .footer {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
 }
+
+.post.on-list {
+  padding: 2.4rem 0 2.7rem;
+}
+
+.post.on-list .post-meta,
+.post.on-list .post-tags {
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+
+.post.on-list .post-content {
+  margin-top: 0.95rem;
+}
+
+.post.on-list .read-more.button.inline {
+  display: inline-flex;
+  align-items: center;
+  margin-top: 0.35rem;
+  padding: 0.18rem 0.72rem;
+  border: 1px solid color-mix(in srgb, var(--accent) 55%, transparent);
+  border-radius: 999px;
+  color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 8%, transparent);
+  transition: background-color 120ms ease, border-color 120ms ease, transform 120ms ease;
+}
+
+.post.on-list .read-more.button.inline:hover,
+.post.on-list .read-more.button.inline:focus-visible {
+  background: color-mix(in srgb, var(--accent) 16%, transparent);
+  border-color: var(--accent);
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+
+.post-content a,
+.post__content a,
+.footer a {
+  text-underline-offset: 0.16em;
+  text-decoration-thickness: 0.08em;
+}
+
+.footer {
+  margin-top: 1rem;
+}
+
+.footer .copyright {
+  font-size: 14px;
+  line-height: 1.65;
+  color: color-mix(in srgb, var(--foreground) 82%, transparent);
+}
+
+@media (max-width: 684px) {
+  .post.on-list {
+    padding: 2rem 0 2.25rem;
+  }
+}
