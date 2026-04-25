@@ -1,6 +1,7 @@
 ---
 title: "The Rise and Fall of the Dinosaurs by Steve Brusatte"
 date: 2026-04-25
+draft: false
 tags: ["books", "science", "paleontology", "nonfiction"]
 ---
 
