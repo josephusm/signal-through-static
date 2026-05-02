@@ -14,14 +14,15 @@
         {{ . }}
       </div>
     {{ end }}
-    <ul>
+    <ul class="casefile-grid">
       {{ $type := .Type }}
       {{ range $key, $value := .Data.Terms.Alphabetical }}
         {{ $name := .Name }}
         {{ $count := .Count }}
         {{ with $.Site.GetPage (printf "/%s/%s" $type $name) }}
-          <li>
-            <a class="terms-title" href="{{ .Permalink }}">{{ .Name }} [{{ $count }}]</a>
+          <li class="casefile-card">
+            <a class="terms-title" href="{{ .Permalink }}">{{ .Name }}</a>
+            <span class="casefile-count">{{ $count }} {{ if eq $count 1 }}report{{ else }}reports{{ end }}</span>
           </li>
         {{ end }}
       {{ end }}

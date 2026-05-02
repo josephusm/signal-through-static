@@ -21,3 +21,7 @@ Status: **`active`** | v0.4.0 | html/js | web
 [Source](https://github.com/josephusm/the-procedure) · [Live](https://josephusm.github.io/the-procedure/)
 
 ---
+
+## Under Investigation
+
+Other instruments are still under the tarp: small tools, correspondence surfaces, ways to make the archive less decorative and more useful. They get listed here only when they have enough weight to leave fingerprints.
