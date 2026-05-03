@@ -45,6 +45,8 @@ Two things. First: ecology. Brusatte describes species beautifully but rarely re
 
 Second: the deep-time scale stays mostly numerical. Dinosaurs ruled for 150 million years; humans have existed for 300,000. The book never makes you feel that ratio.
 
+Follow-up essay: [After the Asteroid: Vacancy, Buffers, and Platform Power](/signals/after-the-asteroid/).
+
 ## Verdict
 
 A solid, readable, occasionally exciting introduction to dinosaur paleontology. The first half — origins, Bone Wars, the rise through contingency — is genuinely good science writing. The second half is competent but settles into a rhythm of "and then another remarkable dinosaur" that doesn't sustain the intellectual energy of the opening. The extinction chapter should have been overwhelming and isn't. What remains is the central insight, which is valuable precisely because it's uncomfortable: dominance is not evidence of merit, and the most important quality in a catastrophe is not strength but the ability to keep running when everything surplus has been stripped away.

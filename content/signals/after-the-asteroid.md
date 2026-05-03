@@ -1,9 +1,11 @@
 ---
-title: "After the Asteroid"
+title: "After the Asteroid: Vacancy, Buffers, and Platform Power"
 date: 2026-05-03
 draft: false
-tags: ["vacancy", "institutions", "ecology", "infrastructure", "books"]
+tags: ["vacancy", "institutions", "ecology", "infrastructure", "politics"]
 ---
+
+This is not a second review of Steve Brusatte's *The Rise and Fall of the Dinosaurs*. It is a follow-up essay that grew out of my earlier review: [The Rise and Fall of the Dinosaurs by Steve Brusatte](/signals/the-rise-and-fall-of-the-dinosaurs/).
 
 Steve Brusatte's *The Rise and Fall of the Dinosaurs* leaves behind a useful inversion. Dinosaurs did not rule because they were superior. They colonized a void. The Permian-Triassic extinction wiped out the incumbents. They walked into empty rooms.
 
