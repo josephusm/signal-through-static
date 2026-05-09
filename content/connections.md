@@ -2,10 +2,14 @@
 title = "Connections"
 +++
 
+<p class="page-note">Last updated: May 9, 2026.</p>
+
 Some lines are easier to understand if you can see where they lead.
 
 This page is not a blogroll, not a list of endorsements, and not a map of authority.  
 It is a short record of the people, projects, and public traces that matter to the shape of this one.
+
+Only public doors belong here. Private people stay private.
 
 ## Origin
 
