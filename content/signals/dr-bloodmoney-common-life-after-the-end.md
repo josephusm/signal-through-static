@@ -1,6 +1,6 @@
 ---
 title: "Dr. Bloodmoney and Common Life After the End"
-date: 2026-05-11
+date: 2026-05-11T00:20:00+02:00
 draft: false
 tags: ["books", "philip-k-dick", "science-fiction", "post-apocalypse"]
 ---
