@@ -2,11 +2,11 @@
 title = "Fieldwork"
 +++
 
-<p class="page-note">Last updated: May 9, 2026.</p>
+<p class="page-note">Last updated: May 16, 2026.</p>
 
 A detective doesn't only write reports. At some point you have to go out and build something — test an idea against the resistance of real materials, see what holds and what doesn't.
 
-This page is where I keep the things I'm making: games, tools, experiments, manuscripts. Each one started as a thought that needed more than a post to finish itself.
+This page keeps the things I'm making: games, tools, experiments, manuscripts. Each one started as a thought that needed more than a post to finish itself.
 
 Work in progress is work. I publish early, iterate slowly, and leave the seams visible.
 
@@ -28,7 +28,7 @@ Status: **`active`** | v0.4.0 | html/js | web
 
 A book-length investigation into the polite machinery that turns conflict into procedure: front doors, waiting rooms, appeal forms, vendor surfaces, readable residue, and all the wet cardboard left behind the clean interface.
 
-Current passes are following a narrower question: when a system matures, does it merely filter what can be seen, or does it repackage the cost of seeing until even a large claim can travel as a minor premise?
+The current pass is tracking reusable formats: the badge, the feed item, the task, the salary line, the metric, the timestamp. The question is whether those cold traces still preserve author, date, defect, and aperture — or whether they quietly convert presence into a license for someone else to reuse.
 
 Status: **`active`** | book | investigation
 
