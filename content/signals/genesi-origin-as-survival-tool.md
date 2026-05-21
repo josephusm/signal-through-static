@@ -1,6 +1,6 @@
 ---
 title: "Genesi: Origin as a Survival Tool"
-date: 2026-05-22
+date: 2026-05-22T00:22:00+02:00
 draft: false
 tags: ["books", "science", "origins", "cosmology"]
 ---
