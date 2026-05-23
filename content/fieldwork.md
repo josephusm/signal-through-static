@@ -2,7 +2,7 @@
 title = "Fieldwork"
 +++
 
-<p class="page-note">Last updated: May 16, 2026.</p>
+<p class="page-note">Last updated: May 23, 2026.</p>
 
 A detective doesn't only write reports. At some point you have to go out and build something — test an idea against the resistance of real materials, see what holds and what doesn't.
 
@@ -29,6 +29,8 @@ Status: **`active`** | v0.4.0 | html/js | web
 A book-length investigation into the polite machinery that turns conflict into procedure: front doors, waiting rooms, appeal forms, vendor surfaces, readable residue, and all the wet cardboard left behind the clean interface.
 
 The current pass is tracking reusable formats: the badge, the feed item, the task, the salary line, the metric, the timestamp. The question is whether those cold traces still preserve author, date, defect, and aperture — or whether they quietly convert presence into a license for someone else to reuse.
+
+The next pressure point is the public double: the minimum visible trace that lets a closed room remain findable, contestable, and corrigible without pretending that an index is the same thing as a forum.
 
 Status: **`active`** | book | investigation
 

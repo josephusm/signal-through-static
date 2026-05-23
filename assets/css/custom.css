@@ -18,9 +18,9 @@
 
 body {
   font-family: 'Source Serif 4', Georgia, 'Times New Roman', serif;
-  font-size: 19px;
+  font-size: 20px;
   font-weight: 400;
-  line-height: 1.7;
+  line-height: 1.72;
 }
 
 .container.center {
@@ -28,13 +28,14 @@ body {
 }
 
 .post-content {
-  font-size: 19px;
-  line-height: 1.75;
+  font-size: 20px;
+  line-height: 1.82;
 }
 
 .post-content h2,
 .post-content h3 {
-  margin-top: 2.25rem;
+  margin-top: 2.65rem;
+  margin-bottom: 0.95rem;
 }
 
 .page-note {
@@ -58,7 +59,11 @@ h1, h2, h3, h4, h5, h6,
 .post-meta,
 .post-tags,
 .terms-count {
-  color: color-mix(in srgb, var(--foreground) 80%, transparent);
+  color: color-mix(in srgb, var(--foreground) 88%, transparent);
+}
+
+.post-tags a {
+  margin-right: 0.18rem;
 }
 
 .navigation-menu a[aria-current="page"],
@@ -67,6 +72,10 @@ h1, h2, h3, h4, h5, h6,
   text-decoration: underline;
   text-underline-offset: 0.28em;
   text-decoration-thickness: 0.08em;
+}
+
+.navigation-menu__inner {
+  row-gap: 0.45rem;
 }
 
 .briefing-card {
@@ -121,6 +130,12 @@ h1, h2, h3, h4, h5, h6,
   font-weight: 650;
 }
 
+.connection-card strong::after {
+  content: " ↗";
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 0.78em;
+}
+
 .connection-card span {
   display: block;
   margin-top: 0.22rem;
@@ -132,7 +147,7 @@ h1, h2, h3, h4, h5, h6,
 
 .casefile-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
   gap: 0.9rem;
   padding: 0;
   margin-top: 1.4rem;
@@ -143,6 +158,11 @@ h1, h2, h3, h4, h5, h6,
   padding: 0.85rem 0.95rem;
   border: 1px solid color-mix(in srgb, var(--accent) 28%, transparent);
   background: color-mix(in srgb, var(--accent) 5%, transparent);
+}
+
+.casefile-card.is-minor {
+  background: color-mix(in srgb, var(--foreground) 3%, transparent);
+  border-color: color-mix(in srgb, var(--accent) 18%, transparent);
 }
 
 .casefile-card::before,
@@ -160,8 +180,8 @@ h1, h2, h3, h4, h5, h6,
   display: block;
   margin-top: 0.18rem;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  font-size: 0.82rem;
-  color: color-mix(in srgb, var(--foreground) 72%, transparent);
+  font-size: 0.86rem;
+  color: color-mix(in srgb, var(--foreground) 82%, transparent);
 }
 
 .post.on-list {
@@ -170,7 +190,7 @@ h1, h2, h3, h4, h5, h6,
 
 .post.on-list .post-meta,
 .post.on-list .post-tags {
-  font-size: 0.92rem;
+  font-size: 0.96rem;
   line-height: 1.5;
 }
 
@@ -206,16 +226,28 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .footer {
-  margin-top: 1rem;
+  margin-top: 2.6rem;
+  padding-top: 1.2rem;
 }
 
 .footer .copyright {
-  font-size: 15px;
+  font-size: 16px;
   line-height: 1.65;
-  color: color-mix(in srgb, var(--foreground) 92%, transparent);
+  color: color-mix(in srgb, var(--foreground) 96%, transparent);
 }
 
 @media (max-width: 684px) {
+  body,
+  .post-content {
+    font-size: 19px;
+    line-height: 1.78;
+  }
+
+  .container {
+    padding-left: 1.15rem;
+    padding-right: 1.15rem;
+  }
+
   .briefing-card {
     grid-template-columns: 1fr;
     text-align: center;
@@ -227,5 +259,9 @@ h1, h2, h3, h4, h5, h6,
 
   .post.on-list {
     padding: 2rem 0 2.25rem;
+  }
+
+  .post-title {
+    line-height: 1.18;
   }
 }

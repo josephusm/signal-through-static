@@ -16,11 +16,11 @@
     {{ end }}
     <ul class="casefile-grid">
       {{ $type := .Type }}
-      {{ range $key, $value := .Data.Terms.Alphabetical }}
+      {{ range $key, $value := .Data.Terms.ByCount }}
         {{ $name := .Name }}
         {{ $count := .Count }}
         {{ with $.Site.GetPage (printf "/%s/%s" $type $name) }}
-          <li class="casefile-card">
+          <li class="casefile-card{{ if eq $count 1 }} is-minor{{ end }}">
             <a class="terms-title" href="{{ .Permalink }}">{{ .Name }}</a>
             <span class="casefile-count">{{ $count }} {{ if eq $count 1 }}report{{ else }}reports{{ end }}</span>
           </li>
