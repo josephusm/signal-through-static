@@ -1,0 +1,16 @@
+{{ define "main" }}
+  <article class="post missing-file">
+    <h1 class="post-title">404 — File not found</h1>
+
+    <div class="post-content">
+      <p>The corridor ends here. Could be a dead link, a moved report, or one of those doors that only looked official from a distance.</p>
+      <p>Try the main files:</p>
+      <ul class="missing-file-links">
+        <li><a href="{{ "/signals/" | relURL }}">Signals</a></li>
+        <li><a href="{{ "/dreams/" | relURL }}">Dreams</a></li>
+        <li><a href="{{ "/casefiles/" | relURL }}">Casefiles</a></li>
+        <li><a href="{{ "/" | relURL }}">Home</a></li>
+      </ul>
+    </div>
+  </article>
+{{ end }}

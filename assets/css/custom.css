@@ -196,6 +196,46 @@ h1, h2, h3, h4, h5, h6,
   color: color-mix(in srgb, var(--foreground) 82%, transparent);
 }
 
+.missing-file {
+  min-height: 48vh;
+}
+
+.missing-file .post-content {
+  max-width: 680px;
+}
+
+.missing-file-links {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 0.55rem;
+  padding: 0;
+  margin: 1.1rem 0 0;
+  list-style: none;
+}
+
+.missing-file-links li {
+  position: static;
+  margin: 0;
+}
+
+.post .missing-file-links li::before {
+  content: none;
+}
+
+.missing-file-links a {
+  display: block;
+  padding: 0.55rem 0.7rem;
+  border: 1px solid color-mix(in srgb, var(--accent) 34%, transparent);
+  background: color-mix(in srgb, var(--accent) 6%, transparent);
+  text-decoration: none;
+}
+
+.missing-file-links a:hover,
+.missing-file-links a:focus-visible {
+  border-color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 12%, transparent);
+}
+
 .post.on-list {
   padding: 2.4rem 0 2.7rem;
 }

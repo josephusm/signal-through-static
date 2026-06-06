@@ -8,7 +8,7 @@
 
 {{ define "main" }}
   <div class="terms">
-    <h1>{{ if eq .Type "tags" }}Casefiles{{ else }}{{ .Title }}{{ end }}</h1>
+    <h1 class="post-title">{{ if eq .Type "tags" }}Casefiles{{ else }}{{ .Title }}{{ end }}</h1>
     {{ with .Content }}
       <div class="index-content">
         {{ . }}

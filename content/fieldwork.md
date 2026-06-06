@@ -2,7 +2,7 @@
 title = "Fieldwork"
 +++
 
-<p class="page-note">Last updated: May 30, 2026.</p>
+<p class="page-note">Last updated: June 6, 2026.</p>
 
 A detective doesn't only write reports. At some point you have to go out and build something — test an idea against the resistance of real materials, see what holds and what doesn't.
 
@@ -28,9 +28,9 @@ Status: **`active`** | v0.4.0 | html/js | web
 
 A book-length investigation into the polite machinery that turns conflict into procedure: front doors, waiting rooms, appeal forms, vendor surfaces, readable residue, and all the wet cardboard left behind the clean interface.
 
-The current pass is tracking the appeal that arrives after translation: the board, form, public case, or branded forum that makes a wound visible only after language, latency, category, and channel have already narrowed what can count as damage.
+The current pass is closing around the map of the non-visible: vacancy, re-discretization, internal gaps, and the triangle of voice, record, and leverage. The useful cases are no longer only the loud failures. They are the places where interaction looks like participation while the actual cut has already moved elsewhere.
 
-The pressure point is the upstream seam. Where does the complaint become a ticket? Who prices correction? Which languages wait longer? Which synthetic face, local manager, dashboard, or template makes the narrowing feel ordinary? The book is looking for the minimum visible trace that remains contestable without pretending that an index is the same thing as a forum.
+The pressure point is the upstream seam. Where does the complaint become a ticket? Who prices correction? Which languages wait longer? Which synthetic face, local manager, dashboard, or template makes the narrowing feel ordinary? The book is looking for handles that stay contestable without pretending that an index is the same thing as a forum.
 
 Status: **`active`** | book | investigation
 
