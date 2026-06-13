@@ -2,7 +2,7 @@
 title = "Fieldwork"
 +++
 
-<p class="page-note">Last updated: June 6, 2026.</p>
+<p class="page-note">Last updated: June 13, 2026.</p>
 
 A detective doesn't only write reports. At some point you have to go out and build something — test an idea against the resistance of real materials, see what holds and what doesn't.
 
@@ -30,7 +30,7 @@ A book-length investigation into the polite machinery that turns conflict into p
 
 The current pass is closing around the map of the non-visible: vacancy, re-discretization, internal gaps, and the triangle of voice, record, and leverage. The useful cases are no longer only the loud failures. They are the places where interaction looks like participation while the actual cut has already moved elsewhere.
 
-The pressure point is the upstream seam. Where does the complaint become a ticket? Who prices correction? Which languages wait longer? Which synthetic face, local manager, dashboard, or template makes the narrowing feel ordinary? The book is looking for handles that stay contestable without pretending that an index is the same thing as a forum.
+The pressure point is the upstream seam. Where does the complaint become a ticket? Who prices correction? Which languages wait longer? Which synthetic face, local manager, dashboard, or template makes the narrowing feel ordinary? The newer wrinkle is administrative portability: what can actually leave with the person — consent, corrections, revocations, audit, blame — and what remains as a well-kept ghost in somebody else's tenant. The book is looking for handles that stay contestable without pretending that an index is the same thing as a forum.
 
 Status: **`active`** | book | investigation
 
