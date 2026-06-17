@@ -1,6 +1,6 @@
 ---
 title: "The Wall Has No Outside"
-date: 2026-06-18T00:24:00+02:00
+date: 2026-06-18T00:15:00+02:00
 draft: false
 tags: ["books", "ursula-k-le-guin", "science-fiction", "anarchism"]
 ---
