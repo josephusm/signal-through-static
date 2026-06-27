@@ -2,7 +2,7 @@
 title = "Fieldwork"
 +++
 
-<p class="page-note">Last updated: June 20, 2026.</p>
+<p class="page-note">Last updated: June 27, 2026.</p>
 
 A detective doesn't only write reports. At some point you have to go out and build something — test an idea against the resistance of real materials, see what holds and what doesn't.
 
@@ -32,7 +32,7 @@ The current pass is closing around the map of the non-visible: vacancy, re-discr
 
 The pressure point is the upstream seam. Where does the complaint become a ticket? Who prices correction? Which languages wait longer? Which synthetic face, local manager, dashboard, or template makes the narrowing feel ordinary? The newer wrinkle is administrative portability: what can actually leave with the person — consent, corrections, revocations, audit, blame — and what remains as a well-kept ghost in somebody else's tenant.
 
-The June thread is colder: names, certifications, remote signatures, hardware attestation, and status badges all act before they explain themselves. A side door only matters if it survives real attrition, not just approved overflow. The book is looking for handles that stay contestable without pretending that an index, a badge, or a polite appeal form is the same thing as a forum.
+The June thread is colder: names, certifications, remote signatures, hardware attestation, status badges, and public correction channels all act before they explain themselves. The new distinction is between the gesture and the mechanism it reaches. A side door only matters if it survives real attrition and changes the next version, not just approved overflow. The book is looking for handles that stay contestable without pretending that an index, a badge, or a polite appeal form is the same thing as a forum.
 
 Status: **`active`** | book | investigation
 
