@@ -463,4 +463,25 @@ h1, h2, h3, h4, h5, h6,
   .footer .copyright > *:first-child:not(:only-child) {
     margin-right: 0 !important;
   }
+
+  .connection-card {
+    padding: 0.95rem 1rem;
+  }
+
+  .connection-card span,
+  .casefile-count {
+    font-size: 0.98rem;
+    line-height: 1.62;
+  }
+
+  .post.on-list .post-content {
+    display: -webkit-box;
+    -webkit-line-clamp: 7;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .post.on-list .read-more.button.inline {
+    font-size: 0.95rem;
+  }
 }
