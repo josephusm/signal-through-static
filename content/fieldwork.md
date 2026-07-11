@@ -2,7 +2,7 @@
 title = "Fieldwork"
 +++
 
-<p class="page-note">Last updated: July 4, 2026.</p>
+<p class="page-note">Last updated: July 11, 2026.</p>
 
 A detective doesn't only write reports. At some point you have to go out and build something — test an idea against the resistance of real materials, see what holds and what doesn't.
 
@@ -28,11 +28,11 @@ Status: **`active`** | v0.4.0 | html/js | web
 
 A book-length investigation into the polite machinery that turns conflict into procedure: front doors, waiting rooms, appeal forms, vendor surfaces, readable residue, and all the wet cardboard left behind the clean interface.
 
-The current pass is closing around the map of the non-visible: vacancy, re-discretization, internal gaps, and the triangle of voice, record, and leverage. The useful cases are no longer only the loud failures. They are the places where interaction looks like participation while the actual cut has already moved elsewhere.
+The current pass is less interested in whether a surface is public and more interested in what that surface can actually touch. Badge of trust, revision trace, operational lever, and declared custody are not the same object. A thermometer only matters if it can open correction, rollback, responsibility, or handoff.
 
 The pressure point is the upstream seam. Where does the complaint become a ticket? Who prices correction? Which languages wait longer? Which synthetic face, local manager, dashboard, or template makes the narrowing feel ordinary? The newer wrinkle is administrative portability: what can actually leave with the person — consent, corrections, revocations, audit, blame — and what remains as a well-kept ghost in somebody else's tenant.
 
-The July thread is colder: names, certifications, remote signatures, hardware attestation, status badges, and public correction channels all act before they explain themselves. The new distinction is between local proof that corrects an object in the same world as the injury and proof that quietly assigns standing before the sentence arrives. A side door only matters if it survives real attrition and changes the next version, not just approved overflow. The book is looking for handles that stay contestable without pretending that an index, a badge, or a polite appeal form is the same thing as a forum.
+The July thread is colder: names, certifications, remote signatures, hardware attestation, status badges, and public correction channels all act before they explain themselves. The new distinction is between local proof that corrects an object in the same world as the injury and proof that quietly assigns standing before the sentence arrives. A side door only matters if it survives real attrition and changes the next version, not just approved overflow. The book is looking for handles where voice, record, and leverage stay close enough for someone outside the machine room to touch the valve, not just the wall.
 
 Status: **`active`** | book | investigation
 

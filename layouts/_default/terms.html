@@ -14,18 +14,50 @@
         {{ . }}
       </div>
     {{ end }}
-    <ul class="casefile-grid">
-      {{ $type := .Type }}
-      {{ range $key, $value := .Data.Terms.ByCount }}
-        {{ $name := .Name }}
-        {{ $count := .Count }}
-        {{ with $.Site.GetPage (printf "/%s/%s" $type $name) }}
-          <li class="casefile-card{{ if eq $count 1 }} is-minor{{ end }}">
-            <a class="terms-title" href="{{ .Permalink }}">{{ .Name }}</a>
-            <span class="casefile-count">{{ $count }} {{ if eq $count 1 }}report{{ else }}reports{{ end }}</span>
-          </li>
-        {{ end }}
+
+    {{ $type := .Type }}
+    {{ $major := slice }}
+    {{ $minor := slice }}
+    {{ range .Data.Terms.ByCount }}
+      {{ if gt .Count 1 }}
+        {{ $major = $major | append . }}
+      {{ else }}
+        {{ $minor = $minor | append . }}
       {{ end }}
-    </ul>
+    {{ end }}
+
+    {{ if gt (len $major) 0 }}
+      <h2 class="casefile-section-title">Recurring folders</h2>
+      <ul class="casefile-grid">
+        {{ range $major }}
+          {{ $name := .Name }}
+          {{ $count := .Count }}
+          {{ with $.Site.GetPage (printf "/%s/%s" $type $name) }}
+            <li class="casefile-card">
+              <a class="terms-title" href="{{ .Permalink }}">{{ .Name }}</a>
+              <span class="casefile-count">{{ $count }} {{ if eq $count 1 }}report{{ else }}reports{{ end }}</span>
+            </li>
+          {{ end }}
+        {{ end }}
+      </ul>
+    {{ end }}
+
+    {{ if gt (len $minor) 0 }}
+      <details class="casefile-minor" open>
+        <summary>Single-report traces</summary>
+        <ul class="casefile-grid casefile-grid--minor">
+          {{ range $minor }}
+            {{ $name := .Name }}
+            {{ $count := .Count }}
+            {{ with $.Site.GetPage (printf "/%s/%s" $type $name) }}
+              <li class="casefile-card is-minor">
+                <a class="terms-title" href="{{ .Permalink }}">{{ .Name }}</a>
+                <span class="casefile-count">{{ $count }} report</span>
+              </li>
+            {{ end }}
+          {{ end }}
+        </ul>
+      </details>
+    {{ end }}
   </div>
 {{ end }}
