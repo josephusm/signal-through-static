@@ -1,6 +1,6 @@
 ---
 title: "The Useful Brackets of Infinity"
-date: 2026-07-16
+date: 2026-07-15
 draft: false
 tags:
   - book-review
