@@ -43,9 +43,15 @@
 
         {{ if not .Params.showFullContent }}
           {{ $readLabel := $.Site.Params.ReadMore }}
-          {{ if eq .Section "dreams" }}
+          {{ $section := .Section }}
+          {{ if eq $section "" }}
+            {{ $section = .Type }}
+          {{ end }}
+          {{ if eq $.RelPermalink "/" }}
+            {{ $readLabel = "Open signal" }}
+          {{ else if eq $section "dreams" }}
             {{ $readLabel = "Read dream" }}
-          {{ else if eq .Section "signals" }}
+          {{ else if eq $section "signals" }}
             {{ $readLabel = "Open signal" }}
           {{ end }}
           <div>
