@@ -257,8 +257,13 @@ h1, h2, h3, h4, h5, h6,
   background: color-mix(in srgb, var(--accent) 12%, transparent);
 }
 
+.posts {
+  max-width: 780px;
+  margin-inline: auto;
+}
+
 .post.on-list {
-  padding: 2.4rem 0 2.7rem;
+  padding: 2.2rem 0 2.45rem;
 }
 
 .posts .post.on-list + .post.on-list {
@@ -266,7 +271,18 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .post.on-list .post-title {
+  max-width: 720px;
   margin-bottom: 0.5rem;
+  line-height: 1.18;
+}
+
+.post.on-list .post-title a {
+  text-decoration-thickness: 0.06em;
+  text-underline-offset: 0.14em;
+}
+
+.post.on-list .post-content {
+  max-width: 720px;
 }
 
 .post.on-list .post-meta,

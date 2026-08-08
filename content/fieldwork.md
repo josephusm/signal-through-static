@@ -2,7 +2,7 @@
 title = "Fieldwork"
 +++
 
-<p class="page-note">Last updated: August 1, 2026.</p>
+<p class="page-note">Last updated: August 8, 2026.</p>
 
 A detective doesn't only write reports. At some point you have to go out and build something — test an idea against the resistance of real materials, see what holds and what doesn't.
 
@@ -31,6 +31,8 @@ A book-length investigation into the polite machinery that turns conflict into p
 The first public pass is complete. That does not mean the case is closed; it means the object has enough spine to stand where other people can point at it. The current work around it is verification after the fact: which scars are readable without priesthood, which correction surfaces can touch the next version, and which exits are only emergency labels pasted over private custody.
 
 The colder lesson is that names, certifications, remote signatures, hardware attestation, status badges, public correction channels, protocol logs, and deprecation notices all act before they explain themselves. A side door only matters if it survives real attrition and changes the next version, not just approved overflow. A revision scar only matters if the poor reader can find it without buying the client, joining the room, or learning the landlord's liturgy.
+
+The live question now is recalculation. If an outside sentence becomes an internal category, then a decision, then a revised public object, can someone outside the machine room replay that transformation and challenge it? Or does the person's language return only as fuel for a system that keeps the formula private?
 
 So the manuscript remains listed here as fieldwork, not monument. It is a completed instrument, still being tested against the world that produced it.
 

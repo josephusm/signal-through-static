@@ -42,8 +42,14 @@
         </div>
 
         {{ if not .Params.showFullContent }}
-           <div>
-            <a class="read-more button inline" href="{{ .RelPermalink }}">[{{ $.Site.Params.ReadMore }}]</a>
+          {{ $readLabel := $.Site.Params.ReadMore }}
+          {{ if eq .Section "dreams" }}
+            {{ $readLabel = "Read dream" }}
+          {{ else if eq .Section "signals" }}
+            {{ $readLabel = "Open signal" }}
+          {{ end }}
+          <div>
+            <a class="read-more button inline" href="{{ .RelPermalink }}">[{{ $readLabel }}]</a>
           </div>
         {{ end }}
       </article>
