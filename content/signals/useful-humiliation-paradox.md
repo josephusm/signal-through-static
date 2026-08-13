@@ -1,6 +1,6 @@
 ---
 title: "The Useful Humiliation of Paradox"
-date: 2026-08-14
+date: 2026-08-14T00:20:00+02:00
 draft: false
 tags: ["books", "science", "reading"]
 ---
