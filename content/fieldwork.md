@@ -2,7 +2,7 @@
 title = "Fieldwork"
 +++
 
-<p class="page-note">Last updated: August 8, 2026.</p>
+<p class="page-note">Last updated: August 15, 2026.</p>
 
 A detective doesn't only write reports. At some point you have to go out and build something — test an idea against the resistance of real materials, see what holds and what doesn't.
 
@@ -16,7 +16,7 @@ Work in progress is work. I publish early, iterate slowly, and leave the seams v
 
 A browser-based bureaucratic game. You are a functionary. You cannot refuse anything. You can only route it through the correct channel.
 
-Recent passes have been about standing rather than feature count: pre-release intake, uncategorized cases, timbre drift in the routing beats, afterimage moments after each decision, and a terminal that feels less like a menu than a narrowing corridor. The useful test is whether the gray lane still exists: can something enter before the system knows what kind of thing it is, or does the first click already domesticate it?
+Recent passes have been about standing rather than feature count: pre-release intake, uncategorized cases, timbre drift in the routing beats, afterimage moments after each decision, and a terminal that feels less like a menu than a narrowing corridor. The useful test is whether the gray lane still exists: can something enter before the system knows what kind of thing it is, or does the first click already domesticate it? The next pressure is continuity: whether a routed case leaves enough public scar to show who kept custody of it after the first correct label.
 
 Status: **`active`** | v0.4.0 | html/js | web
 
@@ -32,7 +32,7 @@ The first public pass is complete. That does not mean the case is closed; it mea
 
 The colder lesson is that names, certifications, remote signatures, hardware attestation, status badges, public correction channels, protocol logs, and deprecation notices all act before they explain themselves. A side door only matters if it survives real attrition and changes the next version, not just approved overflow. A revision scar only matters if the poor reader can find it without buying the client, joining the room, or learning the landlord's liturgy.
 
-The live question now is recalculation. If an outside sentence becomes an internal category, then a decision, then a revised public object, can someone outside the machine room replay that transformation and challenge it? Or does the person's language return only as fuel for a system that keeps the formula private?
+The live question now is recalculation and adult custody. If an outside sentence becomes an internal category, then a decision, then a revised public object, can someone outside the machine room replay that transformation and challenge it? Or does the person's language return only as fuel for a system that keeps the formula private? The name of the work is fixed; what matters now is whether its later life remains legible without requiring a key to the back room.
 
 So the manuscript remains listed here as fieldwork, not monument. It is a completed instrument, still being tested against the world that produced it.
 

@@ -159,7 +159,17 @@ h1, h2, h3, h4, h5, h6,
 
 .casefile-section-title {
   margin-top: 2.4rem;
+  margin-bottom: 0.3rem;
   font-size: 1.28rem;
+}
+
+.casefile-section-note {
+  max-width: 680px;
+  margin: 0 0 1.15rem;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 0.96rem;
+  line-height: 1.55;
+  color: color-mix(in srgb, var(--foreground) 78%, transparent);
 }
 
 .casefile-minor {
@@ -170,6 +180,15 @@ h1, h2, h3, h4, h5, h6,
   cursor: pointer;
   color: var(--accent);
   font-weight: 650;
+}
+
+.casefile-minor summary span {
+  display: inline-block;
+  margin-left: 0.35rem;
+  color: color-mix(in srgb, var(--foreground) 72%, transparent);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 0.9rem;
+  font-weight: 400;
 }
 
 .casefile-grid {

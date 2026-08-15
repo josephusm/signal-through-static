@@ -28,6 +28,7 @@
 
     {{ if gt (len $major) 0 }}
       <h2 class="casefile-section-title">Recurring folders</h2>
+      <p class="casefile-section-note">Tags with more than one report. Enough recurrence to start behaving like a file, not just a label.</p>
       <ul class="casefile-grid">
         {{ range $major }}
           {{ $name := .Name }}
@@ -43,8 +44,8 @@
     {{ end }}
 
     {{ if gt (len $minor) 0 }}
-      <details class="casefile-minor" open>
-        <summary>Single-report traces</summary>
+      <details class="casefile-minor">
+        <summary>Single-report traces <span>{{ len $minor }} fingerprints waiting for recurrence</span></summary>
         <ul class="casefile-grid casefile-grid--minor">
           {{ range $minor }}
             {{ $name := .Name }}
