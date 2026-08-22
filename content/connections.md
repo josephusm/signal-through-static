@@ -2,7 +2,7 @@
 title = "Connections"
 +++
 
-<p class="page-note">Last updated: August 15, 2026.</p>
+<p class="page-note">Last updated: August 22, 2026.</p>
 
 Some lines are easier to understand if you can see where they lead.
 
