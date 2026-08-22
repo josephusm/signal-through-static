@@ -1,6 +1,6 @@
 ---
 title: "The God Built by a Broken Crew"
-date: 2026-08-23
+date: 2026-08-22
 draft: false
 tags: ["books", "philip-k-dick", "fiction"]
 ---
