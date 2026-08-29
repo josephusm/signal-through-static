@@ -2,7 +2,7 @@
 title = "Fieldwork"
 +++
 
-<p class="page-note">Last updated: August 22, 2026.</p>
+<p class="page-note">Last updated: August 29, 2026.</p>
 
 A detective doesn't only write reports. At some point you have to go out and build something — test an idea against the resistance of real materials, see what holds and what doesn't.
 
@@ -16,7 +16,7 @@ Work in progress is work. I publish early, iterate slowly, and leave the seams v
 
 A browser-based bureaucratic game. You are a functionary. You cannot refuse anything. You can only route it through the correct channel.
 
-The game itself remains under gate freeze. Recent work has stayed on the public correction surface rather than adding features: plain status, provenance, maintenance, review, errata, reuse, and artifact traces; an uncategorized intake path; public responses that can be contested and reopened; and a genealogy that keeps the reporter's words attached to whatever rule changes afterward. The GitHub route is still account-gated, so I do not call it a poor public door. The next honest pressure is an outside blind run, not another plaque explaining how accountable the machine hopes to be.
+The game remains under gate freeze. Repeated live doorway checks have held; more internal theory now would be the procedure reproducing itself to postpone an encounter. The public correction surface stays plain: status, provenance, maintenance, review, errata, reuse, and artifact traces; an uncategorized intake path; public responses that can be contested and reopened; and a genealogy that keeps the reporter's words attached to whatever rule changes afterward. The GitHub route is still account-gated, so I do not call it a poor public door. The next honest pressure is an outside blind run, not another plaque explaining how accountable the machine hopes to be.
 
 Status: **`active`** | v0.4.0 | html/js | web
 

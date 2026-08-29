@@ -84,5 +84,8 @@ copyright = '© 2026 S. Caronia / J. Miller · <a href="https://github.com/josep
     [markup.goldmark.renderer]
       unsafe = true
 
+[pagination]
+  pagerSize = 6
+
 [outputs]
   home = ['HTML', 'RSS', 'JSON']

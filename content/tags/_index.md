@@ -2,7 +2,7 @@
 title: "Casefiles"
 ---
 
-<p class="page-note">Reviewed August 22, 2026. Counts follow the live archive.</p>
+<p class="page-note">Reviewed August 29, 2026. Counts follow the live archive.</p>
 
 Not every case starts with a clean title. Some begin as a tag on the edge of another report: a bad label, a private gate, a forgotten correction, a public shell still glowing after the room has moved.
 
