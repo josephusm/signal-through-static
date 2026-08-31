@@ -1,6 +1,6 @@
 ---
 title: "Revolution Needs Witnesses"
-date: 2026-09-01
+date: 2026-08-31
 draft: false
 tags: ["book-review", "giovanni-bignami", "astronomy", "epistemology", "signals"]
 ---
