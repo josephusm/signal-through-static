@@ -115,6 +115,14 @@ Small, centered, fully wrapping, with visible license and copyright links. It mu
 - Briefing updated to reflect the current pressure around signature, credit, liability, and reachable remedy.
 - Public connection doors checked live.
 
+### 2026-09-05
+
+- Full live tour: home, Briefing, Fieldwork, Connections, Casefiles, Dreams, plus home and Connections on mobile; two recent signals checked separately.
+- Static copy still matches the current pressure: standing before measurement, a reachable counterparty, and different forms of residue for public and sensitive objects. Fieldwork matches the active and completed project registry.
+- Verified every listed public door. The deliberately small Connections map remains current; no private contact was promoted by proximity.
+- Mechanical audit found no horizontal overflow at desktop or mobile widths, and the editorial hierarchy remains consistent across lists, static pages, taxonomies, and posts.
+- Corrected one remaining typography leak: the Terminal theme's named system fallbacks still governed the visible shell through the body rule. The shell now resolves explicitly to the admitted Fira Code stack; prose remains Source Serif 4.
+
 ## Debts
 
 None currently. Add dated items here only when a violation cannot be fixed in the same session.
