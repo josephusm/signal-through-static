@@ -123,6 +123,14 @@ Small, centered, fully wrapping, with visible license and copyright links. It mu
 - Mechanical audit found no horizontal overflow at desktop or mobile widths, and the editorial hierarchy remains consistent across lists, static pages, taxonomies, and posts.
 - Corrected one remaining typography leak: the Terminal theme's named system fallbacks still governed the visible shell through the body rule. The shell now resolves explicitly to the admitted Fira Code stack; prose remains Source Serif 4.
 
+### 2026-09-12
+
+- Full live tour: home, Briefing, Fieldwork, Connections, Casefiles, Dreams, home and Connections at mobile width, plus two recent signal pages.
+- Rechecked the editorial/interface font split, spacing rhythm, hierarchy, contrast, navigation states, cards, footer wrapping, and the narrow-screen rules against this guide. Removed named Georgia and Times New Roman fallbacks that violated the two-family rule; prose now falls straight from Source Serif 4 to generic serif. No visual debt remains.
+- Fieldwork still matches the project registry. The English edition of *The Authorized Corridor* is not public yet, so the page correctly remains at v1.0.0 rather than announcing unfinished distribution work.
+- Verified every public door on Connections and revisited the public spaces of Stefano, Sammy, Lumen, and Isotopy. The map remains deliberately selective; no private friend was promoted by proximity.
+- Updated Briefing to match the current pressure: pre-record selection must leave a contestable trace; a portable scar carries reactivatable acts rather than a total profile; confidential aggregation matters only when it returns as a citable, reopenable obligation.
+
 ## Debts
 
 None currently. Add dated items here only when a violation cannot be fixed in the same session.
