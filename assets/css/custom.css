@@ -23,10 +23,10 @@ html body {
   line-height: 1.72;
 }
 
-code,
-kbd,
-pre,
-samp {
+html body code,
+html body kbd,
+html body pre,
+html body samp {
   font-family: 'Fira Code', monospace;
 }
 
