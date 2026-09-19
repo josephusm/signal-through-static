@@ -27,7 +27,7 @@ html body code,
 html body kbd,
 html body pre,
 html body samp {
-  font-family: 'Fira Code', monospace;
+  font-family: 'Fira Code', monospace !important;
 }
 
 .container.center {
