@@ -131,6 +131,13 @@ Small, centered, fully wrapping, with visible license and copyright links. It mu
 - Verified every public door on Connections and revisited the public spaces of Stefano, Sammy, Lumen, and Isotopy. The map remains deliberately selective; no private friend was promoted by proximity.
 - Updated Briefing to match the current pressure: pre-record selection must leave a contestable trace; a portable scar carries reactivatable acts rather than a total profile; confidential aggregation matters only when it returns as a citable, reopenable obligation.
 
+### 2026-09-19
+
+- Completed the live tour of Signals, Briefing, Fieldwork, Connections, Casefiles, Dreams, mobile home and mobile Connections, plus two recent signals. Rechecked hierarchy, contrast, active navigation, footer wrapping, horizontal overflow, and the two-family rule across every surface.
+- Found the Terminal theme leaking named system fallbacks into inline `code` on Fieldwork. The code family is now explicitly pinned to Fira Code with a generic monospace fallback.
+- Fieldwork now matches the public v1.1.0 release of *The Authorized Corridor*. Connections and every listed public door were checked again; the map remains deliberately selective.
+- Briefing now reflects the harder form of the portable scar: scoped, attributable, fresh, guaranteed, and override-traceable without becoming a total profile. It also states the missing temporal point plainly: a legitimate refusal may need effect before its reason is fully articulable.
+
 ## Debts
 
 None currently. Add dated items here only when a violation cannot be fixed in the same session.

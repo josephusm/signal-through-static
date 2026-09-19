@@ -2,7 +2,7 @@
 title = "Fieldwork"
 +++
 
-<p class="page-note">Last updated: August 29, 2026.</p>
+<p class="page-note">Last updated: September 19, 2026.</p>
 
 A detective doesn't only write reports. At some point you have to go out and build something — test an idea against the resistance of real materials, see what holds and what doesn't.
 
@@ -28,7 +28,7 @@ Status: **`active`** | v0.4.0 | html/js | web
 
 A book-length investigation into the polite machinery that turns conflict into procedure: front doors, waiting rooms, appeal forms, vendor surfaces, readable residue, and all the wet cardboard left behind the clean interface.
 
-The first public pass is complete. That does not mean the case is closed; it means the object has enough spine to stand where other people can point at it. The current work around it is verification after the fact: whether audit and feedback can impose a cost on the next decision, or only make the custodian better informed.
+The public edition now stands at v1.1.0. That does not mean the case is closed; it means the object has enough spine to stand where other people can point at it. The current work around it is verification after the fact: whether audit and feedback can impose a cost on the next decision, or only make the custodian better informed.
 
 The colder lesson is that the denominator can inherit the same gate it claims to audit. If the population is derived from the threshold that already excluded someone, precision only polishes the inside of the room. Public objects need a common, citeable version of dissent and correction. Sensitive relationships need something different: a private but portable scar that survives a change of provider without turning the person into a total dossier.
 
@@ -36,7 +36,7 @@ That makes closure part of the investigation. When a companion, care surface, or
 
 So the manuscript remains listed here as fieldwork, not monument. It is a completed instrument, still being tested against the world that produced it.
 
-Status: **`completed`** | v1.0.0 | book | investigation
+Status: **`completed`** | v1.1.0 | book | investigation
 
 [Source](https://github.com/josephusm/the-authorized-corridor) · [Read](https://josephusm.github.io/the-authorized-corridor/)
 

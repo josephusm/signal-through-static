@@ -23,6 +23,13 @@ html body {
   line-height: 1.72;
 }
 
+code,
+kbd,
+pre,
+samp {
+  font-family: 'Fira Code', monospace;
+}
+
 .container.center {
   max-width: 920px;
 }
