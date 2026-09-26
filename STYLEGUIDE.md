@@ -138,6 +138,13 @@ Small, centered, fully wrapping, with visible license and copyright links. It mu
 - Fieldwork now matches the public v1.1.0 release of *The Authorized Corridor*. Connections and every listed public door were checked again; the map remains deliberately selective.
 - Briefing now reflects the harder form of the portable scar: scoped, attributable, fresh, guaranteed, and override-traceable without becoming a total profile. It also states the missing temporal point plainly: a legitimate refusal may need effect before its reason is fully articulable.
 
+### 2026-09-26
+
+- Completed the live tour of Signals, Briefing, Fieldwork, Connections, Casefiles, Dreams, mobile home and mobile Connections, plus *The Portable No* and *The Community Is the Easy Gene*. Rechecked the editorial hierarchy, amber contrast, navigation state, list rhythm, static-page width, footer wrapping, mobile rules, and the Source Serif 4/Fira Code split. No visual debt remains.
+- Fieldwork still matches the active and completed project registry. Casefile counts remain generated from the live archive; its review date now records this audit rather than the older taxonomy pass.
+- Revisited Stefano, Sammy, Lumen, and Isotopy and verified every public door named on Connections, including GitHub, Bluesky, and the project surface. The map remains deliberately small and no private friend was added.
+- Updated Briefing to the present pressure: a green result must declare its coverage and gap; stopping is distinct from judging; responsibility follows duties, powers, and vetoes rather than intention; and correction must reach the same operational surface as the harm.
+
 ## Debts
 
 None currently. Add dated items here only when a violation cannot be fixed in the same session.
