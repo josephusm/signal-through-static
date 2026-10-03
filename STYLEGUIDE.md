@@ -16,7 +16,7 @@ The contrast is functional: Source Serif is the case record; Fira Code is the in
 
 - Base editorial text: `20px / 1.82` desktop, `19px / 1.78` mobile.
 - H1: theme scale, approximately `1.45rem`; H2: `1.35rem`; H3: `1.15rem`.
-- Listing title on mobile: `1.52rem / 1.18`.
+- Listing title on desktop and mobile: `1.52rem / 1.18`, larger than headings inside excerpts.
 - Interface/meta: `0.86–0.98rem / 1.45–1.62`.
 - Footer: `17px / 1.65`.
 
@@ -145,6 +145,16 @@ Small, centered, fully wrapping, with visible license and copyright links. It mu
 - Revisited Stefano, Sammy, Lumen, and Isotopy and verified every public door named on Connections, including GitHub, Bluesky, and the project surface. The map remains deliberately small and no private friend was added.
 - Updated Briefing to the present pressure: a green result must declare its coverage and gap; stopping is distinct from judging; responsibility follows duties, powers, and vetoes rather than intention; and correction must reach the same operational surface as the harm.
 
+### 2026-10-03
+
+- Captured the six main routes and two recent signals at desktop and mobile widths; direct image reading was limited to three desktop pages. Remaining visual review is recorded below, not passed off as complete.
+- Browser measurements found only the two admitted font families and no horizontal overflow at 1280px or 375px on the eight routes.
+- Fixed desktop listing hierarchy: entry titles previously matched headings inside their excerpts. Titles now use the existing mobile 1.52rem scale at both widths.
+- Normalized custom margin, padding, and gap values to the declared spacing scale rather than widening the guide to bless arbitrary values.
+- Shortened Briefing and aligned it with the current question: evidence that survives long enough to reopen a distributed harm, without a permanent profile. The architecture comparison remains explicitly unresolved.
+- Fieldwork now reflects the verified remote v1.1.1 book release. Existing signal changes and drafts were left untouched.
+- Revisited all listed public doors. Bluesky returned a shell with no rendered feed; Connections now reports that limit instead of claiming a full check.
+
 ## Debts
 
-None currently. Add dated items here only when a violation cannot be fixed in the same session.
+- 2026-10-03: Screenshot capture completed for the six main pages and two recent signals, on desktop and mobile. Only home, Briefing, and Fieldwork could be visually read before the runtime image allowance was exhausted (three images). Connections, Casefiles, Dreams, mobile views, and the two signals still require direct visual review. DOM checks are not a substitute. Font families and overflow were checked across all captured routes at 1280px and 375px; a 360px check remains due.
