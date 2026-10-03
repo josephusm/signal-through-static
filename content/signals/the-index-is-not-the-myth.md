@@ -1,6 +1,6 @@
 ---
 title: "The Index Is Not the Myth"
-date: 2026-10-04
+date: 2026-10-04T00:15:00+02:00
 draft: false
 tags: ["books", "mythology", "power"]
 ---
