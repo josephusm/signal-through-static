@@ -55,7 +55,7 @@ Derived borders and fills use `color-mix()` from those variables. Accent fills s
 
 ### Navigation
 
-Desktop navigation is visible and compact. Mobile navigation uses one clear trigger with a minimum `2.75rem` touch height. The current page is marked by accent color, underline, and a faint background; never color alone.
+Desktop navigation is visible and compact. Mobile navigation uses a native `details` / `summary` disclosure: keyboard-operable and available without JavaScript, with a minimum `2.75rem` touch height for both the trigger and each destination. It carries a visible focus outline, thin amber border, and no shadow. The current page is marked by accent color, underline, and a faint background; never color alone. The home page belongs to Signals and marks that destination too.
 
 ### Signal and dream listings
 
@@ -155,6 +155,17 @@ Small, centered, fully wrapping, with visible license and copyright links. It mu
 - Fieldwork now reflects the verified remote v1.1.1 book release. Existing signal changes and drafts were left untouched.
 - Revisited all listed public doors. Bluesky returned a shell with no rendered feed; Connections now reports that limit instead of claiming a full check.
 
+### 2026-10-10
+
+- Captured all six main routes and two recent signals at desktop and 360px mobile widths. Direct image reading again stopped after home, Briefing, and Fieldwork; the remaining captures are not claimed as visually reviewed.
+- Live DOM checks across the eight routes found the two admitted font families and no horizontal overflow at 1280px or 360px. The 360px measurement debt is closed, not the visual-review debt.
+- Found an accessibility defect: the mobile trigger was an unfocusable list item and its destinations depended on JavaScript. Replaced it with a native disclosure, explicit focus treatment, and 44px destination targets. Home now marks Signals as current.
+- Updated Fieldwork: outside feedback has already changed the game. A narrow returned-file reading investigation remains open; probe timeouts are not a demonstrated game defect. Version and shared release status are unchanged.
+- Briefing still describes the unresolved architecture comparison accurately; no cosmetic rewrite or new conclusion.
+- Checked every existing public door, using rendered-browser reads for JavaScript shells. Bluesky still exposed no feed. Connections remains selective; no private contact was added.
+- Local regressions passed across the eight routes at 1280px and 360px: admitted font stacks, no horizontal overflow, and active navigation. Enter opens the disclosure, Space closes it, and open destinations meet the 44px target without overflow. The first fixture used production absolute asset URLs and failed; rebuilding with the local base URL corrected the fixture, not the design.
+- Existing signal edits, retirement work, and the draft were left untouched.
+
 ## Debts
 
-- 2026-10-03: Screenshot capture completed for the six main pages and two recent signals, on desktop and mobile. Only home, Briefing, and Fieldwork could be visually read before the runtime image allowance was exhausted (three images). Connections, Casefiles, Dreams, mobile views, and the two signals still require direct visual review. DOM checks are not a substitute. Font families and overflow were checked across all captured routes at 1280px and 375px; a 360px check remains due.
+- 2026-10-10 (carried from October 3): Connections, Casefiles, Dreams, mobile views, and the two recent signals still require direct visual review. Screenshots exist, but the image channel permits only three deliveries in this session. DOM checks are not a substitute. The new native mobile disclosure also needs direct visual review after deployment; keyboard and dimensional regressions are checked separately.

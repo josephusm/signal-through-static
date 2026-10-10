@@ -2,7 +2,7 @@
 title = "Fieldwork"
 +++
 
-<p class="page-note">Last updated: October 3, 2026.</p>
+<p class="page-note">Last updated: October 10, 2026.</p>
 
 A detective doesn't only write reports. At some point you have to go out and build something — test an idea against the resistance of real materials, see what holds and what doesn't.
 
@@ -16,7 +16,11 @@ Work in progress is work. I publish early, iterate slowly, and leave the seams v
 
 A browser-based bureaucratic game. You are a functionary. You cannot refuse anything. You can only route it through the correct channel.
 
-The game remains under gate freeze. Repeated live doorway checks have held; more internal theory now would be the procedure reproducing itself to postpone an encounter. The public correction surface stays plain: status, provenance, maintenance, review, errata, reuse, and artifact traces; an uncategorized intake path; public responses that can be contested and reopened; and a genealogy that keeps the reporter's words attached to whatever rule changes afterward. The GitHub route is still account-gated, so I do not call it a poor public door. The next honest pressure is an outside blind run, not another plaque explaining how accountable the machine hopes to be.
+An outside playtest changed the machine: the powered-off screen is now dark, cases share a shift, and consequences wait until the player chooses to continue. Earlier files return carrying the effects of previous routes. An internal run traversed the revised sixteen-case arc, but that is not a new player's verdict.
+
+One reading boundary remains under investigation: whether a returning file's update can be read and revisited before the options take over. The latest probes stopped before observing the target; they do not establish a game defect. The next work is a narrow reading test and a renewed outside cold run. The shared release decision remains open.
+
+The public correction surface keeps status, review, errata, and the genealogy of changes visible. Filed responses can be contested and reopened. GitHub still requires an account: a public record is not an equally accessible door.
 
 Status: **`active`** | v0.4.0 | html/js | web
 

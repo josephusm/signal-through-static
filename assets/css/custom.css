@@ -90,6 +90,7 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .navigation-menu a[aria-current="page"],
+.mobile-navigation a[aria-current="page"],
 .menu__dropdown a[aria-current="page"] {
   color: var(--accent);
   text-decoration: underline;
@@ -101,6 +102,61 @@ h1, h2, h3, h4, h5, h6,
 
 .navigation-menu__inner {
   row-gap: 0.35rem;
+}
+
+.mobile-navigation {
+  display: none;
+}
+
+.mobile-navigation summary:focus-visible,
+.mobile-navigation a:focus-visible,
+.navigation-menu a:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
+
+@media (max-width: 684px) {
+  .mobile-navigation {
+    display: block;
+    position: relative;
+    flex: 0 0 auto;
+    font-family: 'Fira Code', monospace;
+    font-size: 0.96rem;
+  }
+
+  .mobile-navigation summary {
+    min-height: 2.75rem;
+    padding: 0.55rem 0.65rem;
+    border: 2px solid var(--accent);
+    color: var(--accent);
+    cursor: pointer;
+    box-sizing: border-box;
+  }
+
+  .mobile-navigation__links {
+    position: absolute;
+    right: 0;
+    top: 100%;
+    z-index: 99;
+    min-width: 11rem;
+    padding: 0.55rem;
+    margin: 0.35rem 0 0;
+    list-style: none;
+    border: 2px solid var(--accent);
+    background: var(--background);
+  }
+
+  .mobile-navigation__links li {
+    margin: 0;
+    padding: 0;
+  }
+
+  .mobile-navigation__links a {
+    display: flex;
+    align-items: center;
+    min-height: 2.75rem;
+    padding: 0.35rem 0.55rem;
+  }
 }
 
 .briefing-card {

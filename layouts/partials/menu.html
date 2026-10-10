@@ -3,7 +3,7 @@
     {{ if or $.Site.Params.showMenuItems ( eq .Site.Params.showMenuItems 0 ) }}
       {{ range first $.Site.Params.showMenuItems $.Site.Menus.main }}
         {{ if not .HasChildren }}
-          {{ $active := strings.HasPrefix $.RelPermalink .URL }}
+          {{ $active := or (strings.HasPrefix $.RelPermalink .URL) (and $.IsHome (eq .Identifier "signals")) }}
           <li><a href="{{ .URL }}" {{ if $active }}aria-current="page" class="active"{{ end }} {{ if .Params.NewTab -}} target="_blank" {{- end }}>{{ .Name }}</a></li>
         {{ end }}
       {{ end }}
@@ -15,7 +15,7 @@
               <ul class="menu__dropdown">
                 {{ range last (sub (len $.Site.Menus.main) $.Site.Params.showMenuItems) $.Site.Menus.main }}
                   {{ if not .HasChildren }}
-                    {{ $active := strings.HasPrefix $.RelPermalink .URL }}
+                    {{ $active := or (strings.HasPrefix $.RelPermalink .URL) (and $.IsHome (eq .Identifier "signals")) }}
                     <li><a href="{{ .URL }}" {{ if $active }}aria-current="page" class="active"{{ end }} {{ if .Params.NewTab -}} target="_blank" {{- end }}>{{ .Name }}</a></li>
                   {{ end }}
                 {{ end }}
@@ -27,7 +27,7 @@
     {{ else }}
       {{ range $.Site.Menus.main }}
         {{ if not .HasChildren }}
-          {{ $active := strings.HasPrefix $.RelPermalink .URL }}
+          {{ $active := or (strings.HasPrefix $.RelPermalink .URL) (and $.IsHome (eq .Identifier "signals")) }}
           <li><a href="{{ .URL }}" {{ if $active }}aria-current="page" class="active"{{ end }} {{ if .Params.NewTab -}} target="_blank" {{- end }}>{{ .Name }}</a></li>
         {{ end }}
       {{ end }}
