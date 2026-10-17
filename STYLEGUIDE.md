@@ -166,6 +166,15 @@ Small, centered, fully wrapping, with visible license and copyright links. It mu
 - Local regressions passed across the eight routes at 1280px and 360px: admitted font stacks, no horizontal overflow, and active navigation. Enter opens the disclosure, Space closes it, and open destinations meet the 44px target without overflow. The first fixture used production absolute asset URLs and failed; rebuilding with the local base URL corrected the fixture, not the design.
 - Existing signal edits, retirement work, and the draft were left untouched.
 
+### 2026-10-17
+
+- Captured the six main routes and the two latest published signals at desktop and mobile widths. Directly inspected Connections, Casefiles, and Dreams on desktop; their carried visual-review debt is closed. The image channel then refused further images at its three-image session limit. Other captures are not claimed as visually inspected.
+- Live DOM measurements across all eight routes at 1280px and 360px found only the admitted Fira Code / Source Serif 4 stacks, correct current-page destinations, and no horizontal overflow. Custom CSS spacing remains on the declared scale. The three inspected surfaces retain legible hierarchy, restrained card treatment, and wrapping footers. No design change was justified by these observations.
+- Briefing no longer calls the architecture comparison ongoing: it ended at a candidate specification, without an empirical winner or demonstrated power to compel remedy.
+- Fieldwork now records the completed returned-file layout repair and distinguishes hidden scoring from unintelligible consequences. Outside-player recognition and the shared release decision remain unresolved; versions still match the project registry.
+- Revisited every existing public connection, with rendered-browser reads for JavaScript shells. Bluesky still exposed no feed. No private contact was added, and no public-door claim required changing.
+- Pre-existing signal edits, retirement work, and drafts remain untouched.
+
 ## Debts
 
-- 2026-10-10 (carried from October 3): Connections, Casefiles, Dreams, mobile views, and the two recent signals still require direct visual review. Screenshots exist, but the image channel permits only three deliveries in this session. DOM checks are not a substitute. The new native mobile disclosure also needs direct visual review after deployment; keyboard and dimensional regressions are checked separately.
+- 2026-10-17: Home, Briefing, Fieldwork, all mobile views (including the deployed native disclosure), and the two latest signals still need direct visual review. Desktop Connections, Casefiles, and Dreams were inspected today. Screenshots and 360px/1280px DOM checks cover all eight routes, but do not replace image reading. The image channel refused delivery after three images; this is a review limit, not a clean visual pass.

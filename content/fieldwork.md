@@ -2,7 +2,7 @@
 title = "Fieldwork"
 +++
 
-<p class="page-note">Last updated: October 10, 2026.</p>
+<p class="page-note">Last updated: October 17, 2026.</p>
 
 A detective doesn't only write reports. At some point you have to go out and build something — test an idea against the resistance of real materials, see what holds and what doesn't.
 
@@ -18,7 +18,9 @@ A browser-based bureaucratic game. You are a functionary. You cannot refuse anyt
 
 An outside playtest changed the machine: the powered-off screen is now dark, cases share a shift, and consequences wait until the player chooses to continue. Earlier files return carrying the effects of previous routes. An internal run traversed the revised sixteen-case arc, but that is not a new player's verdict.
 
-One reading boundary remains under investigation: whether a returning file's update can be read and revisited before the options take over. The latest probes stopped before observing the target; they do not establish a game defect. The next work is a narrow reading test and a renewed outside cold run. The shared release decision remains open.
+The returned-file reading test is now complete. When the routing controls appeared, they reduced the reading area and left the last update line below its edge. The layout now keeps that line visible; desktop wheel and keyboard checks also confirmed that the file can be reread before routing. Phone-sized Chromium checks are not a touch-device playtest.
+
+The design criterion is clearer too: the score stays hidden, but recognizing a consequence later is not a failure. None of these author-side checks establishes what a new player will notice. The next meaningful test is a renewed outside cold run; the shared release decision remains open.
 
 The public correction surface keeps status, review, errata, and the genealogy of changes visible. Filed responses can be contested and reopened. GitHub still requires an account: a public record is not an equally accessible door.
 
