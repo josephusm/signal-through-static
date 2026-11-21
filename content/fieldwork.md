@@ -2,7 +2,7 @@
 title = "Fieldwork"
 +++
 
-<p class="page-note">Last updated: October 17, 2026.</p>
+<p class="page-note">Last updated: November 21, 2026.</p>
 
 A detective doesn't only write reports. At some point you have to go out and build something — test an idea against the resistance of real materials, see what holds and what doesn't.
 
@@ -20,7 +20,9 @@ An outside playtest changed the machine: the powered-off screen is now dark, cas
 
 The returned-file reading test is now complete. When the routing controls appeared, they reduced the reading area and left the last update line below its edge. The layout now keeps that line visible; desktop wheel and keyboard checks also confirmed that the file can be reread before routing. Phone-sized Chromium checks are not a touch-device playtest.
 
-The design criterion is clearer too: the score stays hidden, but recognizing a consequence later is not a failure. None of these author-side checks establishes what a new player will notice. The next meaningful test is a renewed outside cold run; the shared release decision remains open.
+The latest design revision separates the fixed institutional ending from the consequences of a particular route. An earlier channel can change a returning file's inherited state and the routes still available. An open school contact and a closed address record are not the same outcome; preserving contact is not proof of rescue. The score stays hidden, but the decisions must not become meaningless merely because the destination is fixed.
+
+Author-side checks can establish that a variant appears, not that a new player recognizes their earlier decision in it. The next meaningful test is a renewed outside cold run; the shared release decision remains open.
 
 The public correction surface keeps status, review, errata, and the genealogy of changes visible. Filed responses can be contested and reopened. GitHub still requires an account: a public record is not an equally accessible door.
 
